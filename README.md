@@ -1,6 +1,6 @@
 # 🚀 Awesome Python Scripts
 
-![Banner](./scripts/assets/banner.png)
+![Banner](banner.png)
 
 In this repository, you can find Python Scripts which come in handy in your day to day life
 
