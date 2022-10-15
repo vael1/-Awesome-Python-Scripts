@@ -22,7 +22,7 @@ Add them to this list so others can find them too and start contributing. Howeve
 
 ## Submitting a pull request
 
-1. [Fork](https://github.com/vael1/Awesome-Python-Scripts/fork) and clone the repository.
+1. Fork and clone the repository.
 2. Create a new branch: `git checkout -b my-branch-name`.
 3. Find a repository that contains the `hacktoberfest` label or a guide/resource related to hacktoberfest
 4. Add your item in alphabetical order in a section or create a new section, if you are not sure about the appropriate section you can open an `issue` to discuss with the community.
