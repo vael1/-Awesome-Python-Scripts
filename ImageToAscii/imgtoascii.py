@@ -34,6 +34,7 @@ def main():
     imdir = input('Please add your image direction carefully: ')
     imsize = input('Please set a value for width and height: ')  
     image = Image.open(imdir)
+    image = image.resize((int(imsize), int(imsize)))
     ascii_art = convert_to_ascii_art(image)
     save_as_text(ascii_art)
     print("Your ascii art is printed on image.txt file!")
